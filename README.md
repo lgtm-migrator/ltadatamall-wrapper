@@ -1,4 +1,6 @@
 # LTA Datamall Wrapper
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapprexp%2Fltadatamall-wrapper.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapprexp%2Fltadatamall-wrapper?ref=badge_shield)
+
 
 This is an API wrapper meant to circumvent the issue of [LTA Datamall not supporting HTTPS](https://github.com/datagovsg/datagovsg-datasets/issues/544).
 
@@ -29,3 +31,7 @@ This is an API wrapper meant to circumvent the issue of [LTA Datamall not suppor
     ENV SSL_KEY=""
     ```
 2. Execute `docker run` or whichever preferred Docker "startup" command.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapprexp%2Fltadatamall-wrapper.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapprexp%2Fltadatamall-wrapper?ref=badge_large)
