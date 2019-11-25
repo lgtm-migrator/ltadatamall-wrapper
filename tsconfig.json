@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitAny": true,
+        "outDir": "dist",
+        "rootDir": "src"
+    }
+}
