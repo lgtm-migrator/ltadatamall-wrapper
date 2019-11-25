@@ -1,11 +1,6 @@
 {
-    "extends": [
-      "config:base"
-    ],
-    "automerge": true,
-    "ignoreDeps": [
-      "ts-node",
-      "typescript"
-    ]
-  }
-  
+
+  "extends": [
+    "config:base"
+  ]
+}
