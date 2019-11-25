@@ -14,10 +14,10 @@
     "helmet": "^3.21.2"
   },
   "devDependencies": {
-    "@types/express": "^4.17.2",
+    "@types/express": "4.17.2",
     "@types/helmet": "0.0.45",
-    "@types/node": "^12.12.12",
-    "typescript": "^3.7.2"
+    "@types/node": "12.12.12",
+    "typescript": "3.7.2"
   },
   "repository": {
     "type": "git",
